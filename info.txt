@@ -1,0 +1,1 @@
+compatible with lz4net-1.0.10.93
