@@ -1,0 +1,3 @@
+[submodule "lz4net_src"]
+	path = lz4net_src
+	url = https://github.com/MiloszKrajewski/lz4net
